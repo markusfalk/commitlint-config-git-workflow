@@ -1,0 +1,20 @@
+{
+  "name": "commitlint-config-git-workflow",
+  "version": "0.1.0",
+  "description": "A commitlint configuration to use with the git workflow",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusfalk/commitlint-config-git-workflow.git"
+  },
+  "keywords": [
+    "commitlint",
+    "git"
+  ],
+  "author": "mail@markus-falk.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markusfalk/commitlint-config-git-workflow/issues"
+  },
+  "homepage": "https://github.com/markusfalk/commitlint-config-git-workflow#readme"
+}
