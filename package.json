@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A commitlint configuration to use with the git workflow",
   "main": "index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/markusfalk/commitlint-config-git-workflow.git"
