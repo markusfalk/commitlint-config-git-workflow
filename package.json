@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-git-workflow",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A commitlint configuration to use with git workflow https://github.com/markusfalk/git-workflow",
   "main": "index.js",
   "scripts": {
