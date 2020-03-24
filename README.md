@@ -4,15 +4,19 @@
 
 A commitlint configuration to use with git workflow: https://github.com/markusfalk/git-workflow
 
+## Prerequisites
+
+Setup [commitlint](https://commitlint.js.org)
+
 ## Installation
 
-Install via npm:
+Install the git-workflow rules via npm:
 
 ```bash
 npm i commitlint-config-git-workflow --save-dev
 ```
 
-Extend your rules:
+Extend your rules with the new rules:
 
 ```json
 {
